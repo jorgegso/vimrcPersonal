@@ -141,3 +141,10 @@ inoremap <expr> <c-k> ("\<C-p>")
 map <Tab> :nohlsearch<CR>
 "easymotion
 nmap f <Plug>(easymotion-overwin-f2)
+
+
+" control xcv
+vmap <C-c> "+yi
+vmap <C-x> "+c
+vmap <C-v> c<ESC>"+p
+imap <C-v> <C-r><C-o>+
