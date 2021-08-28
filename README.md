@@ -1,6 +1,3 @@
-# 
-all nvim config copy and paste
-
 # Personal Vimrc File 
 
 The vimrc file contains optional runtime configuration settings to initialize Vim when it starts. On Unix based systems, the file is named .vimrc, while on Windows systems it is named _vimrc. :help vimrc.
