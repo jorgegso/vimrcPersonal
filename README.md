@@ -8,5 +8,5 @@ The vimrc file contains optional runtime configuration settings to initialize Vi
 3. that's it.
 
 ## What the web looks like
-![image](https://user-images.githubusercontent.com/63064991/131215156-f739f9bb-5795-4909-9ccf-31741fe77b3f.png)
 
+![image](https://user-images.githubusercontent.com/63064991/131215192-40ec393b-e966-4bcd-8b4f-1b397aedee2a.png)
