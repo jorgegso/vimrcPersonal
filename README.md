@@ -4,7 +4,7 @@ Zsh is a shell designed for interactive use, although it is also a powerful scri
 .zshrc is the ZSH configuration file itself.
 
 ##How to run the app.
-1. Download  fron github.
+1. Download the github.
 2. Usually create it as ~/.zshrc 
 3. that's it.
 
