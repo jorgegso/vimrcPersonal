@@ -1,12 +1,13 @@
-# Personal Vimrc File 
+# Personal .Zshrc File 
 
-The vimrc file contains optional runtime configuration settings to initialize Vim when it starts. On Unix based systems, the file is named .vimrc, while on Windows systems it is named _vimrc. :help vimrc.
+Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
+.zshrc is the ZSH configuration file itself.
 
 ##How to run the app.
 1. Download  fron github.
-2. Usually create it as ~/.vimrc 
+2. Usually create it as ~/.zshrc 
 3. that's it.
 
 ## What the web looks like
+![image](https://user-images.githubusercontent.com/63064991/131215408-15d0d478-d4bc-4091-a476-a99a641b180d.png)
 
-![image](https://user-images.githubusercontent.com/63064991/131215192-40ec393b-e966-4bcd-8b4f-1b397aedee2a.png)
